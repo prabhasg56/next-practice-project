@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mypustak",
+      "sha256_cert_fingerprints": [
+        "6A:47:E8:DC:E5:84:2D:13:47:6C:B8:B5:1D:FF:A2:27:FB:90:F5:BA:DD:7F:B0:9F:FA:A1:D8:B8:31:1A:31:3E",
+        "68:02:F0:8C:F9:C5:BF:AC:0E:04:9B:5B:F5:EC:F8:60:D2:3E:64:24:B6:8C:60:75:4F:7F:31:5E:6A:A8:E8:98",
+        "70:6A:21:EB:F8:08:F8:A3:7B:CE:04:6F:ED:14:E9:12:12:5A:07:07:81:C7:28:AC:A8:1B:E0:16:CA:B7:8E:69"
+      ]
+    }
+  }
+]
